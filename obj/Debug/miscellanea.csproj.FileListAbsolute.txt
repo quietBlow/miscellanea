@@ -1,0 +1,6 @@
+C:\Projects\miscellanea\bin\Debug\miscellanea.exe
+C:\Projects\miscellanea\bin\Debug\miscellanea.pdb
+C:\Projects\miscellanea\obj\Debug\miscellanea.csprojAssemblyReference.cache
+C:\Projects\miscellanea\obj\Debug\miscellanea.csproj.CoreCompileInputs.cache
+C:\Projects\miscellanea\obj\Debug\miscellanea.exe
+C:\Projects\miscellanea\obj\Debug\miscellanea.pdb
